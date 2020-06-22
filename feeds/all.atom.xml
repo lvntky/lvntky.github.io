@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Levent Kaya</title><link href="https://lvntky.github.io/" rel="alternate"></link><link href="https://lvntky.github.io/feeds/all.atom.xml" rel="self"></link><id>https://lvntky.github.io/</id><updated>2015-11-01T00:45:00+03:00</updated><subtitle>Bilgisayar Bilimleri.</subtitle><entry><title>Test</title><link href="https://lvntky.github.io/2015/11/test.html" rel="alternate"></link><published>2015-11-01T00:45:00+03:00</published><updated>2015-11-01T00:45:00+03:00</updated><author><name>levent</name></author><id>tag:lvntky.github.io,2015-11-01:/2015/11/test.html</id><content type="html">&lt;p&gt;Wafer gummies lollipop pastry cotton candy chocolate cake sweet roll.
-Cupcake caramels brownie gummi bears. Sweet fruitcake chocolate bear
-claw cake liquorice bear claw lemon drops cheesecake. Sweet sesame snaps
-pie halvah.&lt;/p&gt;
-</content><category term="misc"></category><category term="General"></category></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Levent Kaya</title><link href="https://lvntky.github.io/" rel="alternate"></link><link href="https://lvntky.github.io/feeds/all.atom.xml" rel="self"></link><id>https://lvntky.github.io/</id><updated>2020-06-22T18:55:00+03:00</updated><subtitle>Bilgisayar Bilimleri.</subtitle><entry><title>Linux From Scratch - LFS Nedir #0</title><link href="https://lvntky.github.io/2020/06/Linux%20From%20Scratch%200.html" rel="alternate"></link><published>2020-06-22T18:55:00+03:00</published><updated>2020-06-22T18:55:00+03:00</updated><author><name>levent</name></author><id>tag:lvntky.github.io,2020-06-22:/2020/06/Linux From Scratch 0.html</id><summary type="html">&lt;div class="section" id="lfs-nedir"&gt;
+&lt;h2&gt;LFS Nedir&lt;/h2&gt;
+&lt;p&gt;Linux From Scratch(LFS) kendi Linux dağıtımınızı oluşturmanıza yarıyan bir
+proje. Tüm gerekli paketleri derleyip boot ettikten sonra kendi Linux sistemimizi oluşturmamıza olanak sağlayan bir manuel.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="neden-bir-lfs-sistemi-isteyesiniz"&gt;
+&lt;h2&gt;Neden bir LFS sistemi isteyesiniz?&lt;/h2&gt;
+&lt;p&gt;Öncelikle LFS size Linux'u canlı bir proje ile öğretiyor.
+Linux nedir diye kitaplar okumak yerine bir Linux …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="lfs-nedir"&gt;
+&lt;h2&gt;LFS Nedir&lt;/h2&gt;
+&lt;p&gt;Linux From Scratch(LFS) kendi Linux dağıtımınızı oluşturmanıza yarıyan bir
+proje. Tüm gerekli paketleri derleyip boot ettikten sonra kendi Linux sistemimizi oluşturmamıza olanak sağlayan bir manuel.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="neden-bir-lfs-sistemi-isteyesiniz"&gt;
+&lt;h2&gt;Neden bir LFS sistemi isteyesiniz?&lt;/h2&gt;
+&lt;p&gt;Öncelikle LFS size Linux'u canlı bir proje ile öğretiyor.
+Linux nedir diye kitaplar okumak yerine bir Linux dağıtımı yapmak/üretmek
+bence çok daha değerli ve işe yarar. Benim gibi aktif olarak sistem programlama ve bilgisayar görü
+alanlarında çalışıyorsanız zaten Linux sistemler üzerinde işlerinizi gerçekleştiriyorsunuzdur.
+LFS bu üzerinde çalıştığımız sistemi anlamak ve manipüle etmek adına size güzel bir fırsat sunuyor.
+Ben ilk distromu geçen yaz yapmıştım, hem önümüzdeki dönem alacağım işletim sistemleri dersine Hazırlık
+hem bu blog serisini yazmak hem de eğlenmek için bu yaz da bir distro yapmaya karar verdim.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bir-sonraki-yazida"&gt;
+&lt;h2&gt;Bir Sonraki Yazıda...&lt;/h2&gt;
+&lt;p&gt;Blogun bir sonraki yazısında LFS'in 9.1 versiyonuna sadık kalarak, Host sistemimizi hazırlayacak,
+Sistem gereksinimlerini indirecek, disk partisyonlarını ayarlıyacağız.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="misc"></category><category term="Linux"></category></entry></feed>
